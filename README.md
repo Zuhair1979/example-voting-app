@@ -1,4 +1,5 @@
-Example Voting App
+Example Voting Ap
+we want to test the master branch protection
 =========
 
 Getting started
